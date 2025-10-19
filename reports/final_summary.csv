@@ -1,0 +1,12 @@
+Project,Gym Members Calorie Prediction
+Date,2025-10-19
+Dataset_Size,973
+Train_Test_Split,778/195
+Selected_Features,16
+Best_Model,Linear Regression
+Test_RMSE,49.02083903529647
+Test_MAE,39.06682567554058
+Test_R2,0.9006081536338354
+CV_RMSE,53.624450754978895
+Residuals_Normal,Yes
+Prediction_Interval_95,±96.04

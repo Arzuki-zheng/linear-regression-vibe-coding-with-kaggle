@@ -1,0 +1,31 @@
+# Python Requirements for Multiple Linear Regression Project
+# 多元線性回歸專題所需套件
+# 學號: 7114056186
+# 日期: 2025-10-19
+
+# Core Data Science Libraries
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+
+# Data Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Scientific Computing
+scipy>=1.7.0
+
+# Optional: For PDF conversion
+# pypandoc>=1.7.0
+# markdown2>=2.4.0
+# pdfkit>=1.0.0
+
+# Optional: For enhanced analysis
+# statsmodels>=0.13.0
+# jupyter>=1.0.0
+# notebook>=6.4.0
+
+# Installation Instructions:
+# pip install -r requirements.txt
